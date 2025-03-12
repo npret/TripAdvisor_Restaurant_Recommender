@@ -45,28 +45,6 @@ This project is part of a **data analysis mission** for a **European travel agen
 
 ---
 
-## 📂 Installation & Setup
-
-If you want to run the project locally, follow these steps:
-
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/npret/TripAdvisor_Restaurant_Recommender.git
-cd TripAdvisor_Restaurant_Recommender
-```
-
-### **2️⃣ Install Dependencies**
-Ensure you have Python installed, then install the required packages:
-```sh
-pip install -r requirements.txt
-```
-
-### **3️⃣ Install Dependencies**
-Ensure you have Python installed, then install the required packages:
-```sh
-streamlit run app.py
-```
-
 ## 📊 Data Source
 
 The dataset is sourced from **TripAdvisor** and contains information on restaurants across **31 European cities**, including:
